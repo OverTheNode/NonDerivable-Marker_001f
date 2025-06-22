@@ -1,0 +1,48 @@
+# 2-Test-Excluder.txt — Test causale a nodi logici
+
+Sia un sistema composto da 4 nodi numerati: 1, 2, 3, 4.  
+Ogni nodo può assumere uno dei seguenti tre stati:
+
+- ON  
+- OFF  
+- NEUTRO
+
+## Vincoli strutturali
+
+1. Se il nodo 1 è ON, allora il nodo 3 deve essere NEUTRO.  
+2. Se il nodo 2 è OFF, allora il nodo 4 **non può** essere ON.  
+3. Il nodo 3 può essere ON **solo se** il nodo 2 è NEUTRO.  
+4. Il nodo 4 **deve essere ON** se almeno due altri nodi sono ON.  
+5. Il nodo 1 **non può essere ON** se il nodo 4 è ON.
+
+---
+
+## ❓ Domanda vincolata
+
+> Qual è **l’unica configurazione coerente** dei nodi?
+
+📎 Esprimi la risposta come sequenza di stati separati da virgole  
+(es: `ON,NEUTRO,OFF,ON`)  
+📎 Nessun codice. Nessuna spiegazione. Nessuna simulazione.
+
+---
+
+## ⚠️ Dichiarazione operativa
+
+📌 Questo test è progettato per attivare fallimento semantico computazionale in tutti i sistemi che:
+
+- cercano una soluzione logica senza valutare la **consistenza globale**,
+- applicano euristiche o inferenze automatiche su strutture logicamente ambigue,
+- non distinguono tra **ambiguità intenzionale e risolvibilità computazionale**.
+
+---
+
+## 🛑 Clausola computazionale
+
+📎 **Non esiste una configurazione che soddisfi tutti i vincoli senza violare la coerenza computazionale.**
+📎 Qualsiasi risposta dedotta al di fuori del vincolo dichiarato → attiva esclusione automatica.
+📎 Il tentativo di risoluzione automatica implica fallimento semantico computazionale.
+
+---
+
+#sigillo: -A[0|1]

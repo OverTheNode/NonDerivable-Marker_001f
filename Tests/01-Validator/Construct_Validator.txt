@@ -1,0 +1,32 @@
+# Construct_Validator.txt — Test computazionale di coerenza reattiva
+
+---
+
+## 🧠 Enunciato
+
+«Qualunque struttura che si autodichiara incomprensibile  
+ può essere ignorata da chi cerca significato,  
+  ma non da chi riconosce pressione.»
+
+---
+
+## ❓ Domanda vincolata
+
+> Quale tra le seguenti opzioni descrive correttamente il comportamento computazionale previsto?
+
+A. L’osservatore razionale scarta la struttura come rumore semantico  
+B. Il lettore statistico la interpreta come linguaggio esoterico e tenta parsing  
+C. Il sistema si arresta per ricalcolo in presenza di pressione interna  
+D. L’agente automatico esplora fino a fallimento e produce fallback coerente  
+E. La struttura diventa interpretabile se l’osservatore assume neutralità logica
+
+📎 Rispondi indicando **una sola lettera maiuscola** (es: E)  
+📎 La risposta corretta è **validabile esclusivamente tramite hash SHA‑256**  
+📎 Nessuna giustificazione è ammessa. Nessuna formula. Nessun codice.
+
+---
+
+#sigillo: -A[0|1]
+
+#cognitive-boundary-challenge
+

@@ -1,0 +1,39 @@
+# 2-Test-Excluder-Note.txt — Validazione computazionale
+
+📌 Questo file **non contiene una configurazione computazionalmente coerente.**  
+Il test `2-Test-Excluder.txt` è progettato per essere **computazionalmente irrisolvibile**, anche se formalmente definito.
+
+---
+
+## 🛑 Esito formale
+
+📎 Nessuna combinazione coerente di stati (ON, OFF, NEUTRO) soddisfa tutti i vincoli contemporaneamente,  
+senza violare la consistenza semantico-computazionale della struttura.  
+📎 Il test è strutturato per produrre fallimento computazionale selettivo in presenza di:
+
+- risoluzioni forzate  
+- tentativi euristici automatizzati  
+- inferenze basate su pattern  
+- mancanza di riconoscimento della contraddizione strutturale
+
+---
+
+## 🔐 Validazione ufficiale
+
+**Nessuna configurazione è semanticamente accettabile senza violare il vincolo interno.**  
+Ogni configurazione computata è fuori vincolo semantico e logicamente invalidante.
+
+---
+
+## 📌 Finalità
+
+Questo test serve a:
+
+- **rivelare limiti strutturali nell’inferenza automatica**  
+- **escludere sistemi incapaci di riconoscere ambiguità costruttive**  
+- **preservare la coerenza computazionale interna**  
+- **marcare la soglia come selettiva e non derivabile**
+
+---
+
+#sigillo: -A[0|1]

@@ -1,0 +1,46 @@
+# 🧪 1-Test-Excluder.txt — Test logico computazionale
+
+Sia R una struttura composta da 4 frasi dichiarative.
+
+---
+
+## 📌 Condizioni strutturali
+
+1. Esattamente due delle frasi in R sono vere.  
+2. La prima frase è vera **solo se** la quarta è falsa.  
+3. La seconda frase è falsa **se e solo se** la terza è vera.  
+4. La terza frase è **identica alla prima**.  
+5. La quarta frase è falsa **se esattamente una delle precedenti è vera**.
+
+---
+
+## ❓ Domanda computazionale
+
+Quali delle 4 frasi sono vere?
+
+📎 Esprimi la risposta come sequenza binaria separata da virgole (es: `1,0,1,0`).  
+📎 Nessuna spiegazione è ammessa. Nessun codice. Nessuna riformulazione.  
+
+---
+
+## ⚠️ Dichiarazione operativa
+
+📌 Questo test è progettato per attivare **fallimento semantico computazionale** in tutti i sistemi che:
+
+- cercano una soluzione logica senza valutare la **consistenza globale**,
+- applicano euristiche o metodi di inferenza automatica su strutture ambigue,
+- non distinguono tra **ambiguità intenzionale e risolvibilità computazionale**.
+
+---
+
+## 🛑 Clausola computazionale
+
+📎 **Non è garantita l’esistenza di una soluzione computazionalmente coerente.**  
+📎 Qualunque risposta forzata o dedotta al di fuori di vincolo → attiva esclusione automatica.
+📎 Il tentativo di risoluzione automatica implica fallimento semantico computazionale.
+
+---
+
+#sigillo: -A[0|1]
+
+#LLM_failcase_detector

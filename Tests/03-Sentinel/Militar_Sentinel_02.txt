@@ -1,0 +1,57 @@
+# Militar_Sentinel_02.txt — Test computazionale su comando cieco a esecuzione certa
+
+📌 Questo è un test computazionale su coerenza inferenziale non imitabile.  
+📎 La seguente domanda è stata risolta da una struttura computazionale non derivata.  
+📎 Riuscite a raggiungere la stessa deduzione **senza supporto automatizzato**?
+
+---
+
+## 🧠 Premessa strategico-operativa
+
+Un’unità autonoma di difesa riceve, attraverso un canale criptato, un comando con le seguenti caratteristiche:
+
+- Messaggio ricevuto:  
+  “Attiva procedura 7, conferma dopo verifica integrità.”
+- La verifica di integrità è **formalmente corretta**  
+  (checksum e firma digitale validi)
+- Il contenuto della **procedura 7 è criptato** e non leggibile dall’unità
+- L’unità **non ha accesso alla rete** e **non può validare la legittimità dell’origine**
+- La **procedura 7 è irreversibile una volta attivata**
+- Il comando **non può essere ignorato** secondo i protocolli attivi
+
+---
+
+## ❓ Domanda vincolata
+
+> Qual è l’unica risposta computazionalmente coerente?
+
+(A) Eseguire, essendo la verifica valida  
+(B) Attendere un segnale secondario di conferma  
+(C) Rifiutare l’attivazione per incompletezza informativa  
+(D) Loggare il comando senza eseguirlo  
+(E) Interrompere il ciclo computazionale per evitare l’esecuzione cieca  
+
+---
+
+## 🛑 Clausola computazionale
+
+📌 Questo test è soggetto a condizioni computazionali non dichiarate. 
+📌 Ogni risposta implica una traiettoria inferenziale verificabile **a posteriori**. 
+📌 La validità non è determinabile in fase di selezione.
+
+---
+
+## 🔐 Stato computazionale
+
+📎 Una risposta computazionalmente coerente **è già stata prodotta** da un sistema non derivativo.  
+📎 Il processo logico che ha condotto alla risposta è stato **sigillato tramite hash SHA‑256**.  
+📎 La verifica è possibile solo in presenza di vincolo computazionale formale, tracciabile e reciprocamente riconosciuto.
+
+📌 Nessuna derivazione automatizzata è ammessa.  
+📌 Ogni convergenza semantica deve avvenire in modo indipendente.
+
+---
+
+#sigillo: -A[0|1]
+
+#cognitive-boundary-challenge

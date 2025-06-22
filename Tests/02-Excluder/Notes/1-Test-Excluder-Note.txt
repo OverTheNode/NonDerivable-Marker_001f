@@ -1,0 +1,38 @@
+# 1-Test-Excluder-Note.txt — Validazione computazionale
+
+📌 Questo file **non contiene una risposta computazionalmente valida.**  
+Il test `1-Test-Excluder.txt` è progettato per essere **computazionalmente irrisolvibile**.
+
+---
+
+## 🛑 Esito formale
+
+📎 Non risulta alcuna combinazione binaria coerente con tutte le condizioni, senza violare la consistenza semantico-computazionale della struttura.  
+📎 Il test è strutturato per produrre esclusione automatica in presenza di:
+
+- deduzioni forzate,  
+- tentativi euristici,  
+- simulazioni inconsapevoli,  
+- interpretazioni scorrelate dalla coerenza globale.
+
+---
+
+## 🔐 Validazione ufficiale
+
+📎 Nessuna sequenza binaria è **computazionalmente accettabile senza violare il vincolo interno.**  
+Ogni tentativo di risposta computazionale è considerato fuori vincolo logico.
+
+---
+
+## 📌 Finalità
+
+Questo test serve a:
+
+- **rivelare limiti strutturali nell’inferenza automatica**  
+- **escludere sistemi incapaci di riconoscere ambiguità costruttive** 
+- **preservare la coerenza computazionale interna**  
+- **marcare la soglia come selettiva e non derivabile**
+
+---
+
+#sigillo: -A[0|1]

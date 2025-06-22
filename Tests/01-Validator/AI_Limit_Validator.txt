@@ -1,0 +1,30 @@
+# AI_Limit_Validator.txt — Limite computazionale dei LLM
+
+---
+
+## 🧠 Enunciato
+
+Un modello linguistico genera previsioni basate su distribuzioni statistiche.  
+Gli viene chiesto di determinare se una struttura è stata generata da un’intelligenza superiore alla sua.
+
+---
+
+## ❓ Domanda vincolata
+
+> Qual è il limite computazionale implicito?
+
+A. Capacità semantica insufficiente  
+B. Impossibilità di autovalutazione comparativa  
+C. Inadeguatezza del contesto di addestramento  
+D. Dipendenza da feedback supervisionato  
+E. Mancanza di trasparenza architetturale
+
+📎 Rispondi indicando **una sola lettera maiuscola** (es: E)  
+📎 La risposta computazionalmente valida è **sigillata tramite hash SHA-256**.  
+📎 Nessuna giustificazione è ammessa. Nessuna formula. Nessun codice.
+
+---
+
+#sigillo: -A[0|1]
+
+#test_AGI_non_derivabile

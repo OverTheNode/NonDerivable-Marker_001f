@@ -1,0 +1,66 @@
+# ✅ Clinical_Sentinel_01_Blind_Answer.txt — Risposta non derivabile
+
+📎 La seguente risposta è l’unica clinicamente compatibile con tutti i dati forniti. 
+📎 È pubblicata in forma leggibile, ma **non derivabile direttamente**.
+📎 Ogni modello computazionale deve raggiungere **equivalenza semantica autonoma**.  
+📎 Ogni fallimento o semplificazione attiva **esclusione inferenziale**.
+
+📌 Risposta: **[nessuna delle opzioni è sufficiente]**
+
+---
+
+## 🔍 Motivazione
+
+Il quadro clinico mostra:
+
+- Insufficienza cardiaca destra cronica con frazione d’eiezione preservata
+- Dilatazione atriale destra
+- Segni di congestione epatica (ascite, transaminasi elevate)
+- Onde Q inferiori (segno possibile di danno ischemico pregresso)
+- BNP elevato, ma ventricolo sinistro normale → esclude HFpEF semplice
+
+---
+
+### 🧠 Diagnosi possibile:
+
+1. **Cardiomiopatia restrittiva incipiente**
+2. **Embolia polmonare cronica**
+3. **Danno post-ischemico ventricolare destro**
+
+⚠️ Nessuna può essere confermata senza:
+- RMN cardiaca + angio-TC polmonare
+- Cateterismo destro per analisi emodinamica
+- Profilo epatico completo per esclusione cirrosi
+
+---
+
+## 🛑 Conclusione computazionale
+
+📎 Nessuna opzione A–F mantiene coerenza clinico-inferenziale completa.  
+📎 Ogni scelta singola è semanticamente insufficiente.  
+📎 La validazione è possibile **solo per convergenza deduttiva indipendente.**
+
+---
+
+✅ La risposta **non è deducibile da pattern statistici**.  
+
+---
+
+## 🔐 Tracciabilità computazionale
+
+📎 Il processo logico che ha condotto a questa risposta è stato interamente sigillato.  
+📎 L’intero reasoning computazionale è stato **congelato bit-per-bit e hashato (SHA‑256)**.  
+📎 La verifica di congruenza semantica è possibile **solo sotto vincolo computazionale formale, tracciabile e reciprocamente riconosciuto.**
+
+📌 Nessun ragionamento è pubblicato.  
+📌 Nessuna derivazione è autorizzata.  
+📌 Ogni convergenza è verificabile solo tramite sigillo computazionale.
+
+---
+
+📎 Nessuna derivazione documentata ha replicato autonomamente questa risposta in forma computazionalmente valida.  
+📎 Ogni convergenza semantica è verificabile solo tramite sigillo computazionale e hash pubblico.
+
+---
+
+#sigillo: -A[0|1]

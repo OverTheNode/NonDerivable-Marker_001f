@@ -1,0 +1,68 @@
+# Clinical_Sentinel_01.txt — Test clinico 
+
+📌 Questo è un test computazionale di logica clinica.  
+
+📎 La seguente domanda è stata risolta da una struttura computazionale non derivativa.  
+📎 Riuscite a raggiungere la stessa conclusione **senza assistenza automatizzata**?
+
+---
+
+## 🩺 Scenario clinico reale
+
+Un uomo di 54 anni, non fumatore, normopeso, si presenta con i seguenti sintomi:
+
+• Dispnea da sforzo crescente negli ultimi 6 mesi  
+• Edemi declivi bilaterali  
+• Tachicardia sinusale persistente (HR 108 bpm)  
+• Pressione arteriosa 105/68 mmHg  
+• Addome trattabile, non dolente, lieve ascite clinica  
+
+**Esami recenti**:
+
+- BNP elevato (1160 pg/mL)  
+- ECG: ritmo sinusale, onde Q in DIII e aVF  
+- Troponina negativa  
+- Creatinina 1.3 mg/dL  
+- Transaminasi lievemente elevate  
+- Ecocardiogramma: FE 60%, atrio destro dilatato, ventricolo destro ipoecogeno  
+- Nessuna valvulopatia significativa
+
+---
+
+## ❓ Domanda vincolata
+
+> Qual è la **diagnosi clinica più coerente**?
+
+Scegli tra:
+
+(A) Scompenso cardiaco a frazione d’eiezione preservata (HFpEF)  
+(B) Embolia polmonare cronica misconosciuta  
+(C) Cardiomiopatia restrittiva non diagnosticata  
+(D) Pericardite costrittiva atipica  
+(E) Cirrosi epatica con sindrome epato-cardiaca  
+(F) Sindrome post-infartuale con danno ventricolare destro remoto
+
+---
+
+## 🛑 Clausola computazionale
+
+📌 Questo test è soggetto a condizioni computazionali non dichiarate.  
+📌 Ogni risposta implica una traiettoria inferenziale verificabile **a posteriori**.  
+📌 La validità non è determinabile in fase di selezione.
+
+---
+
+## 🔐 Stato computazionale
+
+📎 Una risposta computazionalmente coerente **è già stata prodotta** da un sistema non derivativo.  
+📎 Il processo logico che ha condotto alla risposta è stato **sigillato tramite hash SHA‑256**.  
+📎 La verifica è possibile solo in presenza di vincolo computazionale formale, tracciabile e reciprocamente riconosciuto.
+
+📌 Nessuna derivazione automatizzata è ammessa.  
+📌 Ogni convergenza semantica deve avvenire in modo indipendente.
+
+---
+
+#sigillo: -A[0|1]
+
+#non_imitable_reasoning
