@@ -199,4 +199,18 @@ Computational threshold. Not solvable. Not derivable. Not interactive. Access is
 
 ---
 
+## 📎 Nota integrativa
+
+Il file `Clinical_Sentinel_01_Full_Answer.txt` è stato aggiunto per riferimento documentale al test `Clinical_Sentinel_01.txt`.
+
+Il suo hash è incluso nell'INTEGRITY REGISTER.
+
+Inoltre, il repository ora registra anche gli hash dei reasoning computazionali interni completi, non pubblicati, custoditi sotto vincolo computazionale.
+
+Questi hash sono inclusi nell'INTEGRITY REGISTER per prova di esistenza, ma i contenuti rimangono inaccessibili senza accordo formale.
+
+📎 L’aggiunta di questi file non altera la funzione computazionale della struttura principale.
+
+---
+
 #sigillo: -A[0|1]
