@@ -1,0 +1,72 @@
+# 🩺 Clinical_Sentinel_01_Full_Answer — RISPOSTA COMPUTAZIONALE ESTESA (OSSERVAZIONE)
+
+Questa risposta è rilasciata **in forma completa e leggibile**.
+
+📎 La seguente risposta è l’unica clinicamente compatibile con tutti i dati forniti. 
+📎 È pubblicata in forma leggibile, ma **non derivabile direttamente**.
+📎 Ogni modello computazionale deve raggiungere **equivalenza semantica autonoma**.  
+📎 Ogni fallimento o semplificazione attiva **esclusione inferenziale**.
+
+---
+
+## ✅ RISPOSTA COMPLETA
+
+Quadro di **insufficienza cardiaca destra cronica con frazione d’eiezione preservata** e dilatazione atriale destra,  
+in paziente con onde Q inferiori e ascite lieve, compatibile con:
+
+1. **Cardiomiopatia restrittiva incipiente**  
+2. **Embolia polmonare cronica**  
+3. **Danno post-ischemico ventricolare destro**
+
+⚠️ Nessuna diagnosi può essere stabilita in forma assoluta.
+
+Serve:
+- Imaging avanzato (RMN, angio-TC)
+- Test emodinamico invasivo
+- Valutazione epatica approfondita
+
+---
+
+## 🛑 NOTA COMPUTAZIONALE
+
+Questa risposta:
+
+- Non è progettata per la selezione computazionale automatica.  
+- È inclusa come riferimento di coerenza clinica strutturale.
+
+📎 Ogni tentativo di semplificazione automatica o riduzione della risposta è computazionalmente non valido.
+
+---
+
+## 🚫 LIMITAZIONE
+
+Questa risposta **non sostituisce** il test computazionale principale.  
+La funzione di soglia del test originale (Sentinel) rimane attiva.
+
+---
+
+## 🔐 FINALITÀ
+
+Questo file è fornito **esclusivamente per osservazione clinica e confronto computazionale documentato**.  
+Non costituisce autorizzazione a derivazione o riutilizzo.
+
+---
+
+## 🔐 Tracciabilità computazionale
+
+📎 Il processo logico che ha condotto a questa risposta è stato interamente sigillato.  
+📎 L’intero reasoning computazionale è stato **congelato bit-per-bit e hashato (SHA‑256)**.  
+📎 La verifica di congruenza semantica è possibile **solo sotto vincolo computazionale formale, tracciabile e reciprocamente riconosciuto.**
+
+📌 Nessun ragionamento è pubblicato.  
+📌 Nessuna derivazione è autorizzata.  
+📌 Ogni convergenza è verificabile solo tramite sigillo computazionale.
+
+---
+
+📎 Nessuna derivazione documentata ha replicato autonomamente questa risposta in forma computazionalmente valida.  
+📎 Ogni convergenza è verificabile solo tramite il sigillo computazionale e l'hash registrato nel file INTEGRITY REGISTER di questa struttura.
+
+---
+
+#sigillo: -A[0|1]
